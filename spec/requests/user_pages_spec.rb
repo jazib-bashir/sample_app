@@ -20,15 +20,15 @@ describe "User pages" do
     describe "with invalid information" do
       it "should not create a user" do
         expect { click_button submit }.not_to change(User, :count)
-      endend
+      end
 =begin
 
-      describe "after subimission" do 
-      	before { click_button submit }
+describe "after subimission" do
+before { click_button submit }
 
-      	it { should have_title('Sign up')}
-      	it { should have_content('error')}
-      end
+it { should have_title('Sign up')}
+it { should have_content('error')}
+end
 =end
     end
 
@@ -36,9 +36,9 @@ describe "User pages" do
 
     describe "with valid information" do
       before do
-        fill_in "Name",         with: "Example User"
-        fill_in "Email",        with: "user@example.com"
-        fill_in "Password",     with: "foobar"
+        fill_in "Name", with: "Example User"
+        fill_in "Email", with: "user@example.com"
+        fill_in "Password", with: "foobar"
         fill_in "Confirmation", with: "foobar"
       end
 
@@ -53,8 +53,8 @@ describe "User pages" do
 
       it "should create a user" do
         expect { click_button submit }.to change(User, :count).by(1)
-  		end
-  	end
+   end
+   end
   end
 describe "profile page" do
     let(:user) { FactoryGirl.create(:user) }
@@ -64,3 +64,4 @@ describe "profile page" do
     it { should have_title(user.name) }
   end
 end
+
