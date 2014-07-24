@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newer_micropost"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"have",
+				"have_link"
+			],
+			[
+				"hav",
+				"have_link"
+			],
+			[
+				"not",
+				"not_to"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"c",
+				"create"
+			],
+			[
+				"sign",
+				"sign_in"
+			],
+			[
+				"shou",
+				"should"
+			],
+			[
+				"clic",
+				"click_button"
+			],
+			[
+				"wron",
+				"wrong_user"
+			],
+			[
+				"path",
+				"patch"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"wro",
+				"wrong_user"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"sub",
+				"submitting"
+			],
+			[
+				"sig",
+				"signin"
+			],
+			[
+				"edi",
+				"edit_user_path"
+			],
+			[
+				"visi",
+				"visit"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"al",
+				"alert-success"
+			],
+			[
+				"pass",
+				"password_field"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"rem",
+				"remember_token"
+			],
+			[
+				"ale",
+				"alert-error"
+			],
+			[
+				"shoul",
+				"should"
+			],
+			[
+				"in",
+				"information"
+			],
+			[
+				"s",
+				"signup"
+			],
+			[
+				"use",
+				"user_params"
+			],
+			[
+				"fil",
+				"fill_in"
+			],
+			[
+				"fi",
+				"fill_in"
+			],
+			[
+				"signup",
+				"signup_path"
+			],
+			[
+				"gra",
+				"gravatar"
+			],
+			[
+				"g",
+				"gravatar_url"
+			],
+			[
+				"mi",
+				"mixed_case_email"
+			],
+			[
+				"addre",
+				"address"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"inva",
+				"invalid"
+			],
+			[
+				"val",
+				"valid_address"
+			],
+			[
+				"sh",
+				"should"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"Co",
+				"Contact"
+			],
+			[
+				"Ab",
+				"About"
+			],
+			[
+				"ab",
+				"About"
+			],
+			[
+				"hel",
+				"Help"
+			],
+			[
+				"have_",
+				"have_content"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"A",
+				"App"
+			],
+			[
+				"C",
+				"Contact"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"H",
+				"Home"
+			],
+			[
+				"stat",
+				"static_pages"
+			],
+			[
+				"Str",
+				"Story"
+			],
+			[
+				"st",
+				"story"
+			],
+			[
+				"S",
+				"Story"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"ca",
+				"Car"
+			],
+			[
+				"b",
+				"begin	begin … rescue … end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jazib/sample_app/spec/requests/authentication_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 3412,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: randomize()"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/local/lib/ruby/gems/2.1.0/gems/rspec-rails-2.13.1/lib/rspec/rails/adapters.rb",
+		"/home/jazib/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jazib/.config/sublime-text-3/Packages/User/Ruby.sublime-settings",
+		"/usr/local/lib/ruby/gems/2.1.0/gems/activesupport-4.1.2/lib/active_support/dependencies.rb",
+		"/home/jazib/sample_app/db/migrate/20140708100552_add_password_digest_to_users.rb",
+		"/home/jazib/sample_app/.git/MERGE_MSG",
+		"/home/jazib/sample_app/Gemfile",
+		"/home/jazib/sample_app/.git/COMMIT_EDITMSG",
+		"/usr/lib/postgresql/9.1/bin/psql",
+		"/home/jazib/sample_app/config/routes.rb",
+		"/home/jazib/sample_app/app/controllers/application_controller.rb",
+		"/home/jazib/sample_app/app/views/layouts/application.html.erb",
+		"/home/jazib/shovell/app/controllers/stories_controller.rb",
+		"/home/jazib/sample_app/config/initializers/secret_token.rb",
+		"/home/jazib/sample_app/README.md",
+		"/home/jazib/first_app/README.md",
+		"/home/jazib/mytest/Gemfile",
+		"/home/jazib/shovell/app/views/stories/new.html.erb",
+		"/home/jazib/shovell/app/views/stories/index.html.erb",
+		"/home/jazib/shovell/log/development.log",
+		"/home/jazib/first_app/.git/COMMIT_EDITMSG",
+		"/home/jazib/Gemfile",
+		"/home/jazib/Desktop/Ruby/01-car-classes.rb",
+		"/home/jazib/Desktop/test.rb",
+		"/usr/local/bin/ruby",
+		"/home/jazib/Desktop/new.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$grayLight"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jazib/sample_app/spec/requests/authentication_pages_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rails.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

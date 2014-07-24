@@ -1,0 +1,45 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/app"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/bin"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/config"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/db"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/lib"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/log"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/public"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/spec"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/tmp"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/jazib/sample_app/vendor"
+		}
+	]
+}
