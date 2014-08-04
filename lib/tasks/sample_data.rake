@@ -13,7 +13,7 @@ def make_users
                        password: "jazibbashir",
                        password_confirmation: "jazibbashir",
                        admin: true)
-  0.times do |n|
+  5.times do |n|
     name  = Faker::Name.name
     email = "example-#{n+1}@railstutorial.org"
     password  = "password"
@@ -26,12 +26,12 @@ end
 
 def make_microposts
   users = User.limit(6)
-  0.times do
+  5.times do
     content = Faker::Lorem.sentence(5)
     users.each { |user| user.microposts.create!(content: content) }
   end
 end
-=begin
+
 def make_relationships
   users = User.all
   user  = users.first
@@ -40,4 +40,3 @@ def make_relationships
   followed_users.each { |followed| user.follow!(followed) }
   followers.each      { |follower| follower.follow!(user) }
 end
-=end
