@@ -1,4 +1,7 @@
 class User < ActiveRecord::Base
+
+  include Tire::Model::Search
+  include Tire::Model::Callbacks
 	
   has_many :microposts, dependent: :destroy
   has_many :relationships, foreign_key: "follower_id", dependent: :destroy
@@ -16,6 +19,17 @@ class User < ActiveRecord::Base
   before_create :create_remember_token
     validates(:password, length: { minimum: 6 })
 
+    def self.Search(params)
+      tire.Search(load: true,) do
+         query { string params[:query] } if params[:query].present?
+      end
+    end
+=begin
+    mapping do 
+      indexes :id, type: 'integer'
+      indexes :name, type: 'string'
+    end
+=end
     def User.new_remember_token
     	SecureRandom.urlsafe_base64
     end
